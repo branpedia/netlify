@@ -1,0 +1,20 @@
+{
+  "name": "mediafire-api-netlify",
+  "version": "1.0.0",
+  "description": "MediaFire API Website untuk Netlify",
+  "scripts": {
+    "build": "echo 'Build complete'",
+    "dev": "echo 'Development mode'"
+  },
+  "dependencies": {
+    "chrome-aws-lambda": "^10.1.0",
+    "cloudscraper": "^4.6.0",
+    "jsdom": "^22.1.0",
+    "puppeteer-core": "^21.5.0",
+    "axios": "^1.5.0",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
